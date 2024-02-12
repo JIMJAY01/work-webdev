@@ -1,0 +1,29 @@
+h1{
+    color: #096fb1;
+}
+img{
+    box-shadow: -1px -1px 5px gray;
+    width: 150px;
+    
+}
+label{border: 150px;}
+div#mainprofile{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-left: 20px;
+}
+div#profilepicture{
+    width: 100px;
+    height: 200x;
+    border: soid; color: cyan;
+}
+div#addaccountbox{
+    width: 150px;
+    height: 200px;
+    border: solid; color: cyan;
+}
+div#create{
+    display: flex;
+    align-items: center;
+}

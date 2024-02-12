@@ -1,0 +1,110 @@
+
+.everything{
+    display: flex;
+    flex-direction: row;
+
+}
+h1{
+    color: blue;
+}
+h2{font-size: 150%;}
+.all{
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.pics-con{
+    width: 33vw;
+    height: 30vw ;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-left: 20px;
+}
+.add-accountbox{
+    border: 2px red; 
+    border-radius: 2px;
+    width: 21px;
+    height: 50px;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+    box-shadow: -1px -1px 5px gray;
+border-radius: 2px;
+}
+
+.img-1{
+    width: 200px;
+    height: 200px;
+    box-shadow: -1px -1px 5px gray;
+}
+#one{
+    text-align: center;
+    background-color: red;
+}
+#Two{
+    text-align: center;
+}
+.page-main-con{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-con{
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: -1px -1px 5px gray;
+    
+    border: 1px solid gray;
+}
+
+.form {
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 100%;
+
+}
+.input-box{
+    margin: 10px;
+    width: 80%;
+    height: 20px;
+    
+}
+
+.login-con{
+
+    width: 80%;
+    margin: 10px 0;
+}
+
+.login-con button{
+    background-color: #096fb1;
+    width: 100%;
+}
+
+.lower-section{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.forget-pw{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.create_pw{
+    background-color: #35873b;
+}

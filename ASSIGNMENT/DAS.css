@@ -1,0 +1,81 @@
+.one {
+    color: orangered;
+    margin-left: 60px;
+}
+
+.tags {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 400px;
+    margin-left: 400px;
+}
+
+
+#home {
+    color: orangered;
+}
+
+.log {
+    color: orange;
+    background-color: pink;
+    width: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 70px;
+    border-radius: 5px;
+    padding: 5px;
+}
+#log-2{
+    color: orangered
+}
+
+.sign-up {
+    color: white;
+    background-color: orangered;
+    width: 70px;
+    padding: 5px;
+    border-radius: 5px;
+}
+#sign{
+    color: antiquewhite;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+#home{
+    color: orangered;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+}
+.second-sec{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    /* margin-left: 100px; */
+}
+#now{
+    color: antiquewhite;
+    background-color: orangered;
+    border: 0px;
+    border-radius: 5px;
+    width: fit-content;
+    padding: 5px;
+}
+#explore{
+    color: orangered;
+    background-color: pink;
+    border: 0px;
+    border-radius: 5px;
+    box-shadow: -1px -1px -1px 5px;
+    width: fit-content;
+    padding: 5px;
+    margin-top: 20px;
+}

@@ -1,0 +1,47 @@
+.life {
+  padding: 30px;
+  margin: 30px;
+}
+#btn1 {
+  background-color: blue;
+  color: aliceblue;
+  padding: 20px;
+  border-radius: none;
+  border: none;
+}
+#btn2 {
+  color: green;
+  padding: 20px;
+  border-radius: 30px;
+  border-color: green;
+  /* border-color: solid; */
+  /* background-color: green */
+
+}
+#btn3 {
+  background-color: red;
+  color: aliceblue;
+  padding: 20px;
+  border-radius: 10px;
+  border: none;
+
+}
+#btn4 {
+  background-color: rgb(5, 216, 100);
+  padding: 20px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0px 3px rgb(5, 168, 87);
+  color: white;
+  /* border-color: rgb(225, 42, 238); */
+}
+
+#btn5{
+    background-color: rgb(206, 103, 206);
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 5px rgb(129, 10, 76);
+    color: white;
+    
+}

@@ -1,0 +1,26 @@
+.dropdownDiv{
+    background-color: cyan;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    width: 50px;
+    font-size: 13px;
+    display: none;
+    transition: all ease 0.5s;
+    cursor: pointer;
+    position: absolute;
+    top: 18px;
+    left: 0;
+
+}
+
+.hoverclass{
+    transition: all ease 0.5s;
+    cursor: pointer;
+    position: relative;
+
+}
+.hoverclass:hover.dropdownDiv{
+    display: block;
+}

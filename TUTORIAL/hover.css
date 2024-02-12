@@ -1,0 +1,14 @@
+.box1{
+    background-color: blue;
+    width: 200px;
+    text-align: center;
+    height: 100px;
+    transition: 0.2s;
+    color: white;
+}
+.box1:hover{
+    background-color: rgb(156, 156, 245);
+    border-radius: 50px;
+    transform: scale(2); translate: 70% 70%;
+    color: black;
+}

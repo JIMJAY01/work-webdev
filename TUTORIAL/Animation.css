@@ -1,0 +1,36 @@
+body{
+    text-align:center;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.head{
+    color: red;
+
+}
+
+p{
+    /* background-color: red; */
+    width: 100vw;
+    animation-name: slideInOut;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+    animation-delay: 1s;
+}
+@keyframes slideInOut{
+    50%{
+      transform: translateY(180px);
+    }
+    0%{
+      transform: translateY(0);
+    }
+    60%{
+        transform: translateY(180px);
+    }
+    0%{
+        transform:translateY    }
+  }
+
+

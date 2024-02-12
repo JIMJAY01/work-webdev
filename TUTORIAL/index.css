@@ -1,0 +1,16 @@
+body{
+    background-color: cyan;
+}
+div{background-color: white; 
+    color: brown;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    margin-left:  400px;
+    margin-right: 400px;
+    border: 10%;
+    padding:5%;
+    text-align:center;
+    border-spacing: 10mm;
+
+}
+input{border: 0cap;}
